@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/tests/BTreeFreshStartTests.cpp</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/src/btree.cpp</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/tests/BTreeFreshStartTests.h</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/src/main.cpp</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/test_commands.txt</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/src/btree.h</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/src/dataProxy.h</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/tests/BTreeLoadedTests.h</file>
+            <file>file:/home/rocik/projects/Studia/Semestr_5/Struktury%20Baz%20Danych/Projekt%202/File/src/dataProxy.cpp</file>
+        </group>
+    </open-files>
+</project-private>
